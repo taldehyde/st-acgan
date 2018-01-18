@@ -1,0 +1,21 @@
+results
+models
+corpus
+src/vectorEncoder/Data/
+
+#VSCode
+.vscode
+
+#Mac OS
+.DS_Store
+
+#python
+__pycache__
+VENV
+
+#jupyter
+*.ipynb
+
+#images
+*.png
+*.jpg
